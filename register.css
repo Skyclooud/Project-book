@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+font-family: 'Poppins', sans-serif;
+scroll-behavior: smooth;
+background-image: linear-gradient(254deg, #f16e21, #8f8282);;
+color: black    ;
+}
+
+.register{
+
+display: flex;
+align-items: center;
+
+height: 100vh;
+}
+.register-cont{
+
+margin: auto;
+
+display: flex;
+
+
+}
+.register-cont h1{
+
+    text-align: center;
+    font-size: 2.4rem;
+    background: none;
+}
+
+.cont_2{
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+form {
+    gap: 40px;
+
+    display: flex;
+    flex-direction: column;
+    background: none;
+}
+#email, #password ,#password_1, #password_2 {
+    border-radius: 5px;
+    font-size: 1.3vw;
+    padding: 6px 73px 6px 9px;
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    
+}
+.form-group1{
+    display: flex;
+    flex-direction: column;
+    background: none;
+    gap: 10px;
+}
+.form-group2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: none;
+}
+#submit {
+    border-radius: 6px;
+    padding: 9px 2px;
+    border: none;
+    background: #0FAF51;
+    color: white;
+    cursor: pointer;
+}
+
+label{
+    font-weight: 900;
+    background: none;
+}
+.test1{
+    display: flex;
+}
+.register-cont {
+    border-radius: 9px;
+    padding: 53px;
+    border: 2px solid;
+    background: rgb(248, 244, 241);
+    box-shadow: -6px 5px 0px black;
+}
+input{
+    background: none;
+}
+.div1{
+    background: none;
+    display: flex;
+    justify-content: space-between;
+}
+#allredy{
+    font-weight: 100;
+    font-size: 0.8rem;
+
+}
+.div1 a{
+    background: none;
+    color: black;
+    font-weight: 1000;
+    cursor: pointer;
+}
+.div1 a:hover{
+    color: #f16e21;
+}
+@media screen and (max-width: 425px){
+    #email, #password ,#password_1, #password_2 {
+        font-size: 3vw;
+    }
+}
+@media screen and (max-width: 320px){
+    #email, #password ,#password_1, #password_2 {
+        font-size: 4vw;
+    }
+    .register-cont {
+        padding: 24px;
+    } 
+}
