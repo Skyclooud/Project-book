@@ -185,7 +185,9 @@ desc p{
 .end_part foot_part a{
    color:#17a288;
 }
-
+#button a{
+   color: black;
+}
 .part1{
    margin: 1rem 2rem 6rem 2rem;
  } 

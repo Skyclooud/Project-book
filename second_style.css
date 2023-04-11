@@ -82,7 +82,9 @@
     color: #000000;
     cursor: pointer;
  }
-   
+ #button a{
+   color: black;
+} 
 
  .part1{
    margin: 1rem 2rem 6rem 2rem;
