@@ -98,7 +98,7 @@
     margin: 7rem;
 }
 .items{
-    padding: 2rem 0 0 1rem;
+    padding: 2rem 0 0 0;
     list-style: none;
 }
  
@@ -442,7 +442,7 @@ desc p{
 @media screen and (max-width: 320px){
 .navbar{
    margin: 0;
-   gap: 2rem;
+   gap: 0;
 }
 .side_outer_box{
    margin: 0 4rem;
