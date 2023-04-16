@@ -258,7 +258,7 @@
   .ft{
      gap: 6rem;
      margin: auto;
-     padding: 6rem 0 6rem 0;
+     padding: 6rem 0 0 0;
   
   }
   .ft1{
@@ -376,7 +376,7 @@
 
 @media screen and (max-width: 320px){
 .navbar {
-   gap: 0rem;}}
+   gap: 0rem;}
 
    .part2{
       gap: 31px;
@@ -386,6 +386,16 @@
    }
    .ft {
       padding: 4rem 2rem 4rem 2rem;
+   }
+   #icons{
+      padding: 0;
+    }
+    #icons ul li{
+       margin: 0 9px;
+    }
+    #button{
+      font-size: 15px;
+    }
    }
   
 

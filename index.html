@@ -7,6 +7,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>iBooks</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <style>
+        #icons {
+            background: rgb(248, 244, 241);
+            padding: 10px 10px 10px 92px;
+  text-align: center;
+}
+
+#icons ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#icons ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#icons ul li a {
+  color: black;
+  font-size: 24px;
+}
+
+/* Font Awesome Icons */
+.fa-home:before {
+  content: "\f015";
+}
+.fa-envelope:before {
+  content: "\f0e0";
+}
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-facebook-f:before {
+  content: "\f09a";
+}
+.fa-instagram:before {
+  content: "\f16d";
+}
+
+    </style>
 </head>
 
 <body>
@@ -146,10 +188,19 @@
                     <h3>© 2023 Advertical Media LLC. All Rights Reserved.</h3>
                     <h3>Terms - Privacy</h3>
                 </div>
+                <footer id="icons">
+                    <ul>
+                      <li><a href="#"><i class="fas fa-home"></i></a></li>
+                      <li><a href="#"><i class="fas fa-envelope"></i></a></li>
+                      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                      <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                  </footer>
             </div>
         
         </footer>
-  
+        
     </body>
 
 </html>

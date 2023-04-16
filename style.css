@@ -19,7 +19,6 @@
     justify-content: space-around;
     gap: 20rem;
 }
-
 .logo{
     display: flex;
     color: white;
@@ -40,30 +39,26 @@
     color: #f7e8e8db;
     cursor: pointer;
 }
-
  #button {
-        padding: 7px;
-        border: none;
-        padding: 9px 23px;
+     padding: 7px;
+     border: none;
+     padding: 9px 23px;
     font-size: 19px;
     border-radius: 34px;
- margin: 7px;
+     margin: 7px;
     cursor: pointer;
     background: white;
     color: black;
     font-weight: 600;
 }
-
  .tag li a:hover{
    text-decoration: underline;
    color: black;
-
  }
  .tag #button:hover{
     background-color: black; 
     color: white;
  }
-
  .main{
     display : flex;
     height : 25vw;
@@ -73,13 +68,11 @@
     background: url(images/m1.jpg);
     object-fit: cover;
     width: 100%;
-  
  }
  .container{
-margin: auto;
-font-size: 2rem;
+  margin: auto;
+  font-size: 2rem;
     color: white;
-
  }
  .first{
    font-size: 5vw;
@@ -94,7 +87,6 @@ font-size: 2rem;
     display: flex;
     justify-content: center;
 }
- 
  .third a{
    color: #f55f09;
    cursor: pointer;
@@ -102,7 +94,6 @@ font-size: 2rem;
 .third a:hover{
 text-decoration: underline;
 }
-
  .part2{
     display: flex;
     justify-content: center;
@@ -115,7 +106,6 @@ text-decoration: underline;
     /* height: 39rem; */
     margin: 8rem 0 8rem ;
  }
-
  .img-box-1{
     background: url(images/action.jpg);
     height: 201px;
@@ -151,17 +141,14 @@ text-decoration: underline;
  .part1 h2{
     margin: 0 0 0 50px;
  }
-
  span{
    position: absolute;
-  
- 
    text-align: center;
    background-color: rgba(0,0,0,.35);
    padding: 18px 0 18px;
    margin-top: -28px;
    text-transform: uppercase;
-cursor: pointer;
+   cursor: pointer;
    font-size: 21px;
    line-height: 1.25;
    color: #fff;
@@ -177,26 +164,20 @@ cursor: pointer;
     object-fit: cover;
     width: 100%;
   }
-
 .second_col{
    margin: 2rem 3rem 6rem 3rem;
 }
-
 .second_col h1{
-       margin: 0 0 1rem 0;
+ margin: 0 0 1rem 0;
 }
-
-
  #footer{
  display: flex;
    background: rgb(248, 244, 241);
-
  }
 .ft{
    gap: 6rem;
    margin: auto;
-   padding: 6rem 0 6rem 0;
-
+   padding: 6rem 0 0 0;
 }
 .ft1{
    display: flex;
@@ -206,7 +187,6 @@ cursor: pointer;
 .first_part h1{
    font-size: 3rem;
    margin: 0 0 7px 0;
- 
 }
 .first_part2 a{
    color: #00000080;
@@ -224,13 +204,10 @@ cursor: pointer;
    font-size: 13px;
    display: flex;
 justify-content: space-between;
-
 }
 .list_end h3{
-   padding: 2rem 0;
-  
+   padding: 2rem 0; 
 }
-
 @media screen and (max-width: 1024px) {
 .owl{
 margin: 3rem 0 3rem;
@@ -242,17 +219,12 @@ margin: 3rem 0 3rem;
    padding: 6rem 2rem 6rem 2rem;
 }
 }
-
 @media screen and (max-width: 994px) {
-  
    .tag ul li{
       display: none;
    }
 }
 @media screen and (max-width: 566px) {
-/* .navbar{
-   margin: 0 0 0 2rem;
-} */
 .main{
    height: 33vw;
 }
@@ -290,15 +262,10 @@ margin: 3rem 0 3rem;
    padding: 4rem 0 4rem 0;
   }
 }
-
 @media screen and (max-width: 375px){
-
-
 .ft{
    padding: 4rem 0 4rem 0;
-
 }
-
    .main {
       height: 52vw;
   }
@@ -306,9 +273,7 @@ margin: 3rem 0 3rem;
   .second {font-size: 5vw;}
   .third {font-size: 5vw;}
   .navbar {gap: 6rem;}
-
 }
-
 @media screen and (max-width: 320px){
 .second_col {
    margin: 2rem 1rem 6rem 1rem;
@@ -322,7 +287,13 @@ margin: 3rem 0 3rem;
 .ft{
    padding: 4rem 3rem 4rem 3rem;
 }
-
-.navbar{gap: 2rem;
+.navbar{gap: 1rem;
    margin: 0 0 0 1rem;}
+   #icons{
+     padding: 0;
+   }
+   #icons ul li{
+      margin: 0 9px;
+   }
+
 }
