@@ -24,6 +24,6 @@ FREE download of E-BOOKS
 # Highlights
 
 ![Screenshot 2023-09-29 152733](https://github.com/Skyclooud/Project-book/assets/130450763/4b048899-a610-42d1-b2ec-b6705eea6635)
-![l](https://github.com/Skyclooud/Project-book/assets/130450763/44243959-62b7-48e1-9f9e-fb1c21556676)
+![Screenshot 2023-09-29 162544](https://github.com/Skyclooud/Project-book/assets/130450763/7ddb0f7d-6960-48f4-b246-85ee213c24f6)
 
 
