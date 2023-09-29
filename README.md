@@ -8,7 +8,7 @@ Are you ready to embark on a literary journey like no other? Welcome to iBooks, 
 
 ## Appendix
 
-What We Offer:
+# What We Offer:
 
 Diverse Ebook Collection
 
@@ -20,3 +20,7 @@ Seamless Reading Experience
 
 FREE download of E-BOOKS
 
+
+## Highlights
+
+!(file:///C:/Users/91623/Desktop/Screenshot%202023-09-29%20152733.png)
