@@ -6,7 +6,7 @@ Are you ready to embark on a literary journey like no other? Welcome to iBooks, 
 
 
 
-## Appendix
+
 
 # What We Offer:
 
