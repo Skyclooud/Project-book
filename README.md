@@ -21,7 +21,7 @@ Seamless Reading Experience
 FREE download of E-BOOKS
 
 
-## Highlights
+# Highlights
 
 ![Screenshot 2023-09-29 152733](https://github.com/Skyclooud/Project-book/assets/130450763/4b048899-a610-42d1-b2ec-b6705eea6635)
 
