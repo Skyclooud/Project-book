@@ -23,4 +23,4 @@ FREE download of E-BOOKS
 
 ## Highlights
 
-!(file:///C:/Users/91623/Desktop/Screenshot%202023-09-29%20152733.png)
+!{npt loaded}(file:///C:/Users/91623/Desktop/Screenshot%202023-09-29%20152733.png)
