@@ -1,36 +1,43 @@
-📚 Project Book – iBooks Web Portal
+📚 Project Book — *iBooks Web Portal*
 
-Live Demo: https://skyclooud.github.io/Project-book/
+**Live Demo:** [https://skyclooud.github.io/Project-book/](https://skyclooud.github.io/Project-book/)
+**Repository:** [https://github.com/Skyclooud/Project-book.git](https://github.com/Skyclooud/Project-book.git)
 
-Repository: https://github.com/Skyclooud/Project-book.git
+---
 
 📌 Overview
 
-Project Book (iBooks) is a static, front-end web application designed to provide a visually appealing digital book browsing experience. The project demonstrates fundamental web development skills, including responsive layout design, structured navigation, and UI consistency across multiple pages.
+**Project Book (iBooks)** is a static, front-end web application that provides a simple and visually appealing digital book browsing experience. The project demonstrates core web development skills such as structured page design, responsive layouts, and consistent user interface styling across multiple pages.
 
-This project is suitable for beginners and showcases proficiency in HTML and CSS, page structuring, and multi-page website design.
+This project is suitable for beginners and highlights practical use of **HTML and CSS** in building a multi-page website.
+
+---
 
 🎯 Key Features
 
-✅ Clean and modern user interface
+* Clean and modern user interface
+* Organized book categories and listings
+* Fully responsive design for mobile and desktop
+* Login and Registration UI pages
+* Multiple interconnected web pages
+* Custom styling using external CSS files
 
-📚 Organized book categories and listings
-
-📱 Fully responsive design (desktop & mobile)
-
-🔐 Login and Registration UI pages
-
-📄 Multiple structured web pages
-
-🎨 Custom styling with external CSS files
+---
 
 🛠️ Technology Stack
-Technology	Purpose
-HTML5	Page structure and content
-CSS3	Styling and responsiveness
-Git & GitHub	Version control and hosting
-GitHub Pages	Live deployment
+
+| Technology   | Purpose                    |
+| ------------ | -------------------------- |
+| HTML5        | Page structure and content |
+| CSS3         | Styling and responsiveness |
+| Git & GitHub | Version control            |
+| GitHub Pages | Live hosting               |
+
+---
+
 📁 Project Structure
+
+```
 /
 ├── images/                  
 ├── index.html               
@@ -42,38 +49,46 @@ GitHub Pages	Live deployment
 ├── third.css
 ├── register.css
 └── README.md                
+```
+
+---
 
 🚀 How to Run Locally
 
-Clone the repository:
+1. Clone the repository:
 
+```bash
 git clone https://github.com/Skyclooud/Project-book.git
+```
 
+2. Open the project folder:
 
-Open the project folder:
-
+```bash
 cd Project-book
+```
 
+3. Open `index.html` in your browser.
 
-Open index.html in your browser.
+> No installation or server required — this is a static website.
 
-No server or installation required — it is a static website.
+---
 
-🔧 Future Enhancements
+🔧 Future Improvements
 
-Planned improvements include:
+Planned enhancements include:
 
-Adding JavaScript interactivity
+* Adding JavaScript interactivity
+* Connecting a backend for user login
+* Integrating a book API
+* Migrating to React or Next.js
 
-Implementing user authentication with backend
-
-Integrating a book API
-
-Migrating to React or Next.js
+---
 
 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request.
+Contributions are welcome! You may fork this repository, create a branch, and submit a pull request.
+
+---
 
 📜 License
 
